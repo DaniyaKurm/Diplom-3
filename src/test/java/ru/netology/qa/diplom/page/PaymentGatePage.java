@@ -1,2 +1,2 @@
-package ru.netology.qa.diplom.page;public class PaymentGatePage {
-}
+package ru.netology.qa.diplom.page;
+

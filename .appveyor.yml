@@ -1,17 +1,19 @@
-image: Ubuntu2004  # образ для сборки
+version: 1.0.{build}
 
-stack: jdk 11  # версия JDK
+image:
+  - ubuntu1804
 
-branches:
-  only:
-    - master  # ветка git
+services:
+  - docker
 
-build: off  # будем использовать свой скрипт сборки
-
-install:
-  # запускаем SUT (& означает, что в фоновом режиме не блокируем терминал для запуска тестов)
-  - java -jar ./artifacts/aqa-shop.jar &
+before_build:
+  - docker-compose -f docker-compose.yml up -d
+  - sleep 20  # Подождем, чтобы сервисы успели запуститься
+  - java -jar -Dserver.port=8080 ./artifacts/aqa-shop.jar &
   - chmod +x gradlew
 
 build_script:
-  - ./gradlew test --info  # запускаем тест, флаг --info позволяет выводить больше информации
+  - ./gradlew test --info -Dselenide.headless=true
+
+after_build:
+  - docker-compose -f docker-compose.yml down

@@ -1,2 +1,2 @@
-package ru.netology.qa.diplom.test;public class PaymentGateTest {
-}
+package ru.netology.qa.diplom.test;
+
