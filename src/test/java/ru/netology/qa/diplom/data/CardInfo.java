@@ -7,7 +7,7 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Card {
+public class CardInfo {
     private String cardNumber;
     private String month;
     private String year;
