@@ -28,5 +28,4 @@ public class DataHelper {
 
     public static CardInfo getCardDeclined() {
         return new CardInfo("2204 4444 4444 4444", "DECLINED");
-    }
 
