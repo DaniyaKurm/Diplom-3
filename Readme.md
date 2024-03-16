@@ -143,7 +143,8 @@
 **Тестовые сценарии Условия:**
 
 Открыть главную страницу <http://localhost:8080/>
-![homepage.png](homepage.png)
+
+![alt text](https://github.com/netology-code/qa-diploma/blob/master/pic/service.png)
 
 ***Позитивные сценарии:***
 
@@ -856,9 +857,11 @@
 ## Тест-кейсы
 Общее количество автоматизированных сценариев - 69,
 из которых:
-` `- 35 сценария для сервиса платежей Payment Gate
-` `- 34 сценария для сервиса платежей Credit Gate
+-35 сценария для сервиса платежей Payment Gate
+-34 сценария для сервиса платежей Credit Gate
+
 ## **Результаты выполнения автотестов:**
+
 ![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.003.jpeg)
 
 ![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.004.jpeg)
