@@ -862,15 +862,16 @@
 
 ## **Результаты выполнения автотестов:**
 
-![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.003.jpeg)
+![Screenshot_1](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/28fa6715-2779-4905-9c35-187f052625fa)
 
-![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.004.jpeg)
+![Screenshot_2](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/bbc9e304-b389-440f-943d-17fc91e53c72)
 
-![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.005.jpeg)
+![Screenshot_3](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/12f8f381-8f98-4801-bcc7-efb1f94d3cf2)
 
-![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.006.jpeg)
+![pgt](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/053ab32b-c280-44f0-9402-83e17bc66bd8)
 
-![](Aspose.Words.596a7735-e8c2-4abb-82c8-d4b67d7bbd76.007.jpeg)
+![cgt](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/3cd834f7-f63e-4266-ba44-b6253ef841f4)
+
 
 1. **Отчет по итогам автоматизации**
 
