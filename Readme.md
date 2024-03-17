@@ -908,7 +908,7 @@
 1. Запустить Docker Desktop
 1. В терминале IDEA набрать docker compose up --build
 1. Ждем запуска контейнеров node-app, mysql, postgres
-1. Во втором терминале запустить приложение aqa-shop.jar** командой 
+1. Во втором терминале запустить приложение aqa-shop.jar командой 
    java -jar ./artifacts/aqa-shop.jar -Dspring.datasource.url=jdbc:mysql://localhost:3306/app
 1. В отдельном терминале запустить тесты командой
    ./gradlew clean test -DdbUrl=jdbc:mysql://localhost:3306/app
@@ -921,7 +921,7 @@
 1. Запустить Docker Desktop
 1. В терминале IDEA набрать docker compose up --build
 1. Ждем запуска контейнеров node-app, mysql, postgres
-1. Во втором терминале запустить приложение aqa-shop.jar** командой  
+1. Во втором терминале запустить приложение aqa-shop.jar командой  
    java -jar ./artifacts/aqa-shop.jar -Dspring.datasource.url=jdbc:postgresql://localhost:5432/app
 1. В отдельном терминале запустить тесты командой
    ./gradlew clean test -DdbUrl=jdbc:postgresql://localhost:5432/app
