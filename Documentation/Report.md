@@ -20,11 +20,12 @@
 
 **Результаты выполнения автотестов:**
 
+![Screenshot_1](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/28fa6715-2779-4905-9c35-187f052625fa)
 
-![](Aspose.Words.c2a20aaf-287f-4dd3-a799-0857df8231ee.001.jpeg)
+![Screenshot_2](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/bbc9e304-b389-440f-943d-17fc91e53c72)
 
-![](Aspose.Words.c2a20aaf-287f-4dd3-a799-0857df8231ee.002.jpeg)![](Aspose.Words.c2a20aaf-287f-4dd3-a799-0857df8231ee.003.jpeg)
+![Screenshot_3](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/12f8f381-8f98-4801-bcc7-efb1f94d3cf2)
 
-![](Aspose.Words.c2a20aaf-287f-4dd3-a799-0857df8231ee.004.jpeg)
+![pgt](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/053ab32b-c280-44f0-9402-83e17bc66bd8)
 
-![](Aspose.Words.c2a20aaf-287f-4dd3-a799-0857df8231ee.005.jpeg)
+![cgt](https://github.com/DaniyaKurm/Diplom-3/assets/81091295/3cd834f7-f63e-4266-ba44-b6253ef841f4)
