@@ -28,7 +28,7 @@
 **Тестовые сценарии Условия:**
 
 Открыть главную страницу <http://localhost:8080/>.
-![homepage.png](homepage.png)
+![alt text](https://github.com/netology-code/qa-diploma/blob/master/pic/service.png)
 
 #### *Позитивные сценарии:*
 *1. Оплата по дебетовой карте со статусом APPROVED*
