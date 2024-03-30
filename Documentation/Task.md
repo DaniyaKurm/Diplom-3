@@ -11,7 +11,6 @@
 
 ![alt text](https://github.com/netology-code/qa-diploma/blob/master/pic/service.png)
 
-
 Само приложение не обрабатывает данные по картам, а пересылает их банковским сервисам:
 
 - сервису платежей, далее Payment Gate;
